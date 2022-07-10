@@ -4,6 +4,8 @@
 
 </div>
 
+Bring automatic solutions via Machine Learning and Artificial Intelligence to everyone
+
 ### Primary directions
 - Computer Vision 
 - Reinforcement Learning
