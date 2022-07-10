@@ -1,6 +1,6 @@
 <div align='center'>
 
-## Machine Learning solutions provider 
+## Thoth Lab
 
 </div>
 
